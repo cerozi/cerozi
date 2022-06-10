@@ -1,16 +1,20 @@
-### Hi there 👋
+### Python Developer 🐍
 
-<!--
-**cerozi/cerozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👱🏻 20 years old;
+- 🇧🇷 São Paulo, São Paulo;
+- 📫 mcerozi@gmail.com;
+- 💻 Software lover;
+<hr></hr>
 
-Here are some ideas to get you started:
+### Skills & Technologies 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Languages: Python, JavaScript
+- Frameworks: Django, Django REST, FastAPI
+- Databases: PostgreSQL, SQLAlchemy
+- DevOps: Docker, Heroku
+<hr></hr>
+
+### See one of my projects 😉...
+
+-  https://cms-with-django.herokuapp.com/
+- https://save-txt-data.herokuapp.com/
