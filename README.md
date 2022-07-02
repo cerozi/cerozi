@@ -10,7 +10,7 @@
 
 - Languages: Python, JavaScript
 - Frameworks: Django, Django REST, FastAPI
-- Databases: PostgreSQL, SQLAlchemy
+- Databases: PostgreSQL, MySQL, SQLAlchemy
 - DevOps: Docker, Heroku
 <hr></hr>
 
